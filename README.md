@@ -1,6 +1,6 @@
-# untitled
+# Screen Util - GetX - Country Code Picker
 
-A new Flutter project.
+This Project is having an bug that is related to  SystemChrome.setEnabledSystemUIMode(). When this is triggered in the screen, the screen keeps getting crashed .
 
 ## Getting Started
 
